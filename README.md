@@ -4,7 +4,7 @@ Index: [Introduction](https://github.com/Chill-Vabes/Friday-Night-Funkin-BOT#int
 
 <h2 align="left">Introduction:</h2>
 
-Friday Night Funkin' is a free music bot based on the game "Friday Night Funkin'".
+Friday Night Funkin' BOT is a free music bot based on the game "Friday Night Funkin'".
 
 <h2 align="left">Commands List:</h2>
 
@@ -22,7 +22,7 @@ Friday Night Funkin' is a free music bot based on the game "Friday Night Funkin'
 
 <h2 align="left">Invite:</h2>
 
-You can invite TeaTimeAnime BOT via [this](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot%20applications.commands&permissions=517580640000) link.
+You can invite Friday Night Funkin' BOT via [this](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot%20applications.commands&permissions=517580640000) link.
 
 <h2 align="left">Active Projects:</h2>
 
