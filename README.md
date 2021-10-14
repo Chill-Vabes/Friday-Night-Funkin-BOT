@@ -34,7 +34,7 @@ You can invite Friday Night Funkin' BOT via [this](https://discord.com/oauth2/au
 
 <h2 align="left">Stats:</h2>
 
-- Servers: 1510 (05/10/2021).
+- Servers: 1540 (14/10/2021).
 
 <a href="https://top.gg/bot/840217202862325780">
   <img src="https://top.gg/api/widget/840217202862325780.svg" alt="Friday Night Funkin' BOT" />
