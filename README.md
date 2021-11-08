@@ -38,7 +38,7 @@ You can invite Friday Night Funkin' BOT via [this](https://discord.com/oauth2/au
 
 <a href="https://top.gg/bot/840217202862325780">
   <img src="https://top.gg/api/widget/840217202862325780.svg" alt="Friday Night Funkin' BOT" />
-  </a>
+</a>
 
 <h2 align="left">Support Server:</h2>
 
