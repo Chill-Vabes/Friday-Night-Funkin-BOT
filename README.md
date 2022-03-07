@@ -26,7 +26,7 @@ You can invite Friday Night Funkin' BOT via [this](https://discord.com/oauth2/au
 
 <h2 align="left">Active Projects:</h2>
 
-- [Chill Vibes](https://discord.gg/jxh2qxu): Discord Server.
+- [Chill Vibes](https://discord.gg/jZwbbdQVFr): Discord Server.
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -42,7 +42,7 @@ You can invite Friday Night Funkin' BOT via [this](https://discord.com/oauth2/au
 
 <h2 align="left">Support Server:</h2>
 
-You can request support on the Chill VIbes server by clicking [here](https://discord.gg/jxh2qxu).
+You can request support on the Chill VIbes server by clicking [here](https://discord.gg/jZwbbdQVFr).
 
 <h2 align="left">Contact:</h2>
 
